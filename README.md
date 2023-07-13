@@ -3,7 +3,7 @@
 ## I'm a Data Analyst.
 - 🔭 I’m currently searching for a job
 - ⚡ I'm currently a student at Ural Federal University.
-  
+- 📊 [This is my Tableau!](https://public.tableau.com/app/profile/alexandr.baranov)
 ### Connect with me:
 [<img align="left" alt="Alexandr Baranov | Telegram" width="22px" src="https://raw.githubusercontent.com/gist/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-240px.svg" />][telegram]
 
