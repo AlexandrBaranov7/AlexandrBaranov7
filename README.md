@@ -1,7 +1,7 @@
 ### Hi there, I'm Alexandr Baranov 👋
 
 ## I'm a Data Analyst.
-- 🔭 I’m currently working at a [arrrive.studio](https://arrrive.studio/)
+- 🔭 I'm currently working at DataTips, an analytics consultancy for small and medium-sized businesses
 - ⚡ I'm currently a student at Ural Federal University
 - 🤖 Trying to improve ML skills
 - 📊 [This is my Tableau!](https://public.tableau.com/app/profile/alexandr.baranov)
