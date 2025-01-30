@@ -1,7 +1,8 @@
 ### Hi there, I'm Alexandr Baranov 👋
 
 ## I'm a Data Analyst.
-- 🔭 I'm currently working at [DataTips](http://datatips.tech), an analytics consultancy for small and medium-sized businesses
+- 🔍 Now I work in the Kuper.tech search team - [Kuper](https://kuper.ru)'s technological team - an online service for the delivery of groceries and goods from store shelves, as well as ready-made food from restaurants.
+- 🔭 Previously, I worked at [DataTips](http://datatips.tech), an analytics consultancy for small and medium-sized businesses
 - ⚡ I'm currently a student at Ural Federal University
 - 🤖 Trying to improve ML skills
 - 📊 [This is my Tableau!](https://public.tableau.com/app/profile/alexandr.baranov)
