@@ -3,9 +3,7 @@
 ## I'm a Data Analyst.
 - 🔍 Now I work in the Kuper.tech search team - [Kuper](https://kuper.ru)'s technological team - an online service for the delivery of groceries and goods from store shelves, as well as ready-made food from restaurants.
 - 🔭 Previously, I worked at [DataTips](http://datatips.tech), an analytics consultancy for small and medium-sized businesses
-- ⚡ I'm currently a student at Ural Federal University
-- 🤖 Trying to improve ML skills
-- 📊 [This is my Tableau!](https://public.tableau.com/app/profile/alexandr.baranov)
+- 🤖 Vibecoding on weekends!
 ### Connect with me:
 [<img align="left" alt="Alexandr Baranov | Telegram" width="22px" src="https://raw.githubusercontent.com/gist/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-240px.svg" />][telegram]
 
