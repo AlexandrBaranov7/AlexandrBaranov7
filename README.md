@@ -2,7 +2,7 @@
 
 # Alexandr Baranov
 
-**Search &amp; Ranking · ML in production · Python**
+**Search &amp; Ranking · ML in production · Agentic coding**
 
 I build the ranking and search stack at [Kuper](https://kuper.ru) — grocery and retail delivery,<br/>
 where a small shift in relevance moves real orders.
@@ -32,6 +32,14 @@ evaluation loop that tells you whether either of them actually got better.
   noise is the job — bootstrap intervals, permutation tests, and correcting for every
   comparison you actually ran.
 
+## Agentic coding
+
+The highest-leverage skill in the industry right now, and the one I have pushed hardest on.
+
+- **The agent writes, I own it.** If I cannot defend a line under review, it does not merge.
+- **Tight spec, small stacked PRs.** Constraints and a decisions log beat a blank file.
+- **Verification it cannot fake.** Golden tests, typed interfaces, CI that fails loudly.
+
 ## Toolbox
 
 **ML &amp; modeling**
@@ -44,7 +52,7 @@ evaluation loop that tells you whether either of them actually got better.
 
 **Engineering**
 
-![Git](https://img.shields.io/badge/Git-2f363d?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2f363d?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2f363d?style=flat-square&logo=githubactions&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-2f363d?style=flat-square&logo=fastapi&logoColor=white) ![Poetry](https://img.shields.io/badge/Poetry-2f363d?style=flat-square&logo=poetry&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-2f363d?style=flat-square&logo=pytest&logoColor=white) ![mypy](https://img.shields.io/badge/mypy-2f363d?style=flat-square) ![Ruff](https://img.shields.io/badge/Ruff-2f363d?style=flat-square&logo=ruff&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2f363d?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2f363d?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2f363d?style=flat-square&logo=githubactions&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-2f363d?style=flat-square&logo=fastapi&logoColor=white) ![Poetry](https://img.shields.io/badge/Poetry-2f363d?style=flat-square&logo=poetry&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-2f363d?style=flat-square&logo=pytest&logoColor=white) ![mypy](https://img.shields.io/badge/mypy-2f363d?style=flat-square) ![Ruff](https://img.shields.io/badge/Ruff-2f363d?style=flat-square&logo=ruff&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-2f363d?style=flat-square&logo=claude&logoColor=white)
 
 ## How I work
 
